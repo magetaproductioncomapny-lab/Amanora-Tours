@@ -406,3 +406,6 @@
   .package-bottom .button { width: 100%; }
   .footer-links { max-width: 100%; }
 }
+
+.footer-note a { color: #c6a15e; text-underline-offset: 2px; }
+.footer-note a:hover { color: var(--gold-light); }
